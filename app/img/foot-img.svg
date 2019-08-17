@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 96" width="68" height="96">
+	<defs>
+		<image width="68" height="96" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEQAAABgAQMAAACe4EbRAAAAAXNSR0IB2cksfwAAAAZQTFRFtbW1AAAAHesCxQAAAAJ0Uk5T/wDltzBKAAAAGUlEQVR4nGNggAIBhlHWKGuUNTRY/6HgAwBZGQ7ZkxFg/QAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Rectangle 4" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+</svg>

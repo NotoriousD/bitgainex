@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 5" width="9" height="5">
+	<defs>
+		<image width="9" height="5" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAFBAMAAABlfdtYAAAAAXNSR0IB2cksfwAAACdQTFRF////////////////AAAA////////////////////////////////vfLVDwAAAA10Uk5TWn9nBwAw8P/PIOCgEMciwSkAAAAlSURBVHicY2BUdlZkYAirmFEWwOCaXp7qwOASVhUCJD33uDgAAGtOB/LkbU1DAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Polygon 1 copy" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+</svg>
